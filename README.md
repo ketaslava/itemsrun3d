@@ -2,9 +2,6 @@
 
 <img src="https://github.com/ketoslavaket/itemsrun3d/blob/main/images/Logo.png" alt="drawing" width="200"/>
 
-* [App code repository](https://github.com/ketoslavaket/itemsrun3d-project)
-* [App resources repository](https://github.com/ketoslavaket/itemsrun3d-resources)
-
 # About
 
 Items Run 3D is a runner style game
