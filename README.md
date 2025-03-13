@@ -50,6 +50,10 @@ NOTICE: This application uses the OpenSans font, which is licensed under the [Ap
 * Ketaslava Ket
 * KTVINCCO Team
 
+# Feedback
+
+Got an idea or feature request? We're always looking for ways to improve! Send your suggestions to us!
+
 # Contacts
 
 Preferred Communication:
