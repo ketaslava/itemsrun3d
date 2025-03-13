@@ -48,11 +48,22 @@ NOTICE: This application uses the OpenSans font, which is licensed under the [Ap
 # Developers
 
 * Ketaslava Ket
-* KTVINCCO STUDIO
+* KTVINCCO Team
 
 # Contacts
 
-* Website: https://ktvincco.com
+Preferred Communication:
+
+* BlueSky: @ketaslava.bsky.social
+
+Join the Community
+
+* YouTube: @ketaslava, @ktvincco_production
+* Instagram: @ketaslava, @ktvincco
+* Telegram: @ketaslavaket, @ktvincco_production
+
+# Official Communication
+
 * Email: ktvincco@gmail.com
 
 # Official Contacts
