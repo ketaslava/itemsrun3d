@@ -38,7 +38,7 @@ You can customize the game world by going to the skins and backgrounds store
 
 # License
 
-Our project is available under the [MIT License](https://opensource.org/license/mit)
+This project is available under the [MIT License](https://opensource.org/license/mit)
 
 Notice of licenses used in the project's technologies:
 
@@ -53,6 +53,10 @@ NOTICE: This application uses the OpenSans font, which is licensed under the [Ap
 # Contacts
 
 * Website: https://ktvincco.com
+* Email: ktvincco@gmail.com
+
+# Official Contacts
+
 * Email: ktvincco@gmail.com
 
 # Terms of Use and Privacy Policy
