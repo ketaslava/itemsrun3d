@@ -66,10 +66,6 @@ Join the Community
 
 * Email: ktvincco@gmail.com
 
-# Official Contacts
-
-* Email: ktvincco@gmail.com
-
 # Terms of Use and Privacy Policy
 
 By using this application (game) you agree to our [Terms of Use](https://sites.google.com/view/itemsrun3d-termsofuse/home) and [Privacy Policy](https://sites.google.com/view/itemsrun3d-privacypolicy/home)
